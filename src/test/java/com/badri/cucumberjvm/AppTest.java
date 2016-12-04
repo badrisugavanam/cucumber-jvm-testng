@@ -1,4 +1,4 @@
-package com.badri.cucumberjvmhelloworld;
+package com.badri.cucumberjvm;
 
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;

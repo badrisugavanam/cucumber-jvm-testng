@@ -1,7 +1,7 @@
-package com.badri.cucumberjvmhelloworld;
+package com.badri.cucumberjvm;
 
 /**
- * Hello world!
+ * Sum Class 
  *
  */
 public class App 

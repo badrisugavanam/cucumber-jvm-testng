@@ -2,8 +2,9 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.badri.cucumberjvmhelloworld;
+package com.badri.cucumberjvm;
 
+import com.badri.cucumberjvm.App;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import org.testng.Assert;
@@ -29,4 +30,5 @@ public class AppSteps {
     public void The_result_should_be(int arg3) throws Throwable {
         Assert.assertTrue(arg3 == result);
     }
+    
 }
