@@ -3,11 +3,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.badri</groupId>
-    <artifactId>CucumberJVMHelloWorld</artifactId>
+    <artifactId>CucumberJVMHello</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>CucumberJVMHelloWorld</name>
+    <name>CucumberJVM</name>
     <url>http://maven.apache.org</url>
 
     <properties>
